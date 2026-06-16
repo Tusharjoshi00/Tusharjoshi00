@@ -24,17 +24,13 @@
 
 I'm a **Software Developer** who lives in the sweet spot between **full-stack engineering** and **machine learning** — I build the whole thing, from the React frontend down to the trained model and the database underneath it. Right now I'm shipping AI-driven products that real schools use every day, and I'm obsessed with turning messy, manual workflows into clean, automated systems.
 
-```python
-tushar = {
-    "role":        "Software Developer @ Mittsure Technologies LLP",
-    "education":   "B.Tech CSE (Artificial Intelligence) · CGPA 9.0",
-    "location":    "Jaipur, India",
-    "stack":       ["React", "Next.js", "Node.js", "Python"],
-    "specialties": ["Full-Stack Web", "RAG Pipelines", "ML Models", "Automation"],
-    "fuel":        "coffee + lo-fi + curiosity",
-    "current_focus": "Mastering AI/ML for next-gen, production-ready products",
-}
-```
+- 💼 **Role** — Software Developer @ Mittsure Technologies LLP
+- 🎓 **Education** — B.Tech CSE (Artificial Intelligence) · CGPA 9.0
+- 📍 **Location** — Jaipur, India
+- 🧰 **Stack** — React · Next.js · Node.js · Python
+- ⚡ **Specialties** — Full-Stack Web · RAG Pipelines · ML Models · Automation
+- 🚀 **Current focus** — Mastering AI/ML for next-gen, production-ready products
+- ☕ **Fuel** — coffee + lo-fi + curiosity
 
 ---
 
